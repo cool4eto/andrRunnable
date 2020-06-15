@@ -1,0 +1,2 @@
+rootProject.name='upr9Runnable'
+include ':app'
